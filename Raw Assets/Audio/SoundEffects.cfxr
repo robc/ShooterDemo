@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE database SYSTEM "file:///System/Library/DTDs/CoreData.dtd">
+
+<database>
+    <databaseInfo>
+        <version>134481920</version>
+        <UUID>12C3784D-D914-4003-82B6-3AE5C5C80A00</UUID>
+        <nextObjectID>104</nextObjectID>
+        <metadata>
+            <plist version="1.0">
+                <dict>
+                    <key>NSPersistenceFrameworkVersion</key>
+                    <integer>358</integer>
+                    <key>NSStoreModelVersionHashes</key>
+                    <dict>
+                        <key>Sound</key>
+                        <data>
+		wy4SDui5IGPY7g9G3fJH1r4mKKX2gcBIry7qkNv/wRU=
+		</data>
+                    </dict>
+                    <key>NSStoreModelVersionHashesVersion</key>
+                    <integer>3</integer>
+                    <key>NSStoreModelVersionIdentifiers</key>
+                    <array>
+                        <string></string>
+                    </array>
+                </dict>
+            </plist>
+        </metadata>
+    </databaseInfo>
+    <object type="SOUND" id="z102">
+        <attribute name="wavetype" type="int16">3</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="vibratospeed" type="float">0.28362</attribute>
+        <attribute name="vibratodepth" type="float">0.49637</attribute>
+        <attribute name="sustaintime" type="float">0.29542</attribute>
+        <attribute name="sustainpunch" type="float">0.46556</attribute>
+        <attribute name="startfrequency" type="float">0.07042254</attribute>
+        <attribute name="slide" type="float">0.03135999</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="phasersweep" type="float">-0.16032</attribute>
+        <attribute name="phaseroffset" type="float">0.41415</attribute>
+        <attribute name="name" type="string">Explosion</attribute>
+        <attribute name="minfrequencycutoff" type="float">0</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">1</attribute>
+        <attribute name="decaytime" type="float">0.3028169</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0.3732394</attribute>
+    </object>
+    <object type="SOUND" id="z103">
+        <attribute name="wavetype" type="int16">1</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.26954</attribute>
+        <attribute name="startfrequency" type="float">0.704</attribute>
+        <attribute name="squareduty" type="float">0.06595</attribute>
+        <attribute name="slide" type="float">-0.24096</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="phasersweep" type="float">-0.1163</attribute>
+        <attribute name="phaseroffset" type="float">0.15582</attribute>
+        <attribute name="name" type="string">Laser/shoot</attribute>
+        <attribute name="minfrequencycutoff" type="float">0.2</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">5</attribute>
+        <attribute name="dutysweep" type="float">0.10692</attribute>
+        <attribute name="decaytime" type="float">0.39836</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+    <object type="SOUND" id="z104">
+        <attribute name="wavetype" type="int16">0</attribute>
+        <attribute name="volume" type="float">50</attribute>
+        <attribute name="sustaintime" type="float">0.02287</attribute>
+        <attribute name="sustainpunch" type="float">0.42042</attribute>
+        <attribute name="startfrequency" type="float">0.7175</attribute>
+        <attribute name="samplerate" type="int32">44100</attribute>
+        <attribute name="rating" type="int16">0</attribute>
+        <attribute name="name" type="string">Pickup/coin</attribute>
+        <attribute name="lowpassfiltercutoff" type="float">1</attribute>
+        <attribute name="index" type="int32">6</attribute>
+        <attribute name="decaytime" type="float">0.35444</attribute>
+        <attribute name="bitdepth" type="int16">16</attribute>
+        <attribute name="attacktime" type="float">0</attribute>
+    </object>
+</database>
